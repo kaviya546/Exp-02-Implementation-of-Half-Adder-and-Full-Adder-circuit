@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+![Exp2 wave](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/56e0a3ac-900f-4b77-927b-f851bbe81248)# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -38,17 +38,48 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+Developed by: KAVIYA SNEKA M
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+RegisterNumber:  23003642
+
+Code:
+
+Full  Adder:
+
+![Exp3 fa code](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/3aea4355-ca26-432a-b21b-02dcbe13b114)
+
+Half Adder:
+
+![Exp3 ha code](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/9475312d-43d9-4857-a6c4-609e152c55ea)
+
+Truth Table:
+
+Full Adder:
+
+![Exp3 truthtable (fa)](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/75fcd093-24ae-43b0-a32a-f02a50d07d32)
+
+Half Adder:
+
+![Exp3 truthtable (ha)](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/15ba87c8-78fb-459e-8d10-67e15f6259fb)
+
+RTL Viewer:
+
+Full Adder:
+
+![Exp3 fa RTL diagram](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/ef49070a-8405-4ffd-9d3f-1a529f629482)
+
+Half Adder:
+
+![Exp3 ha RTL diagram](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/4801d9ad-387e-401f-b73f-947eb2de9e1e)
+
+Output:
+
+Full Adder:
+
+![Exp3 fa wave](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/adada4e1-6b30-4549-bc96-ae306ad906fb)
+
+Half Adder:
 
 
-### TRUTH TABLE 
+![halfadder-wave](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/2a5c49a1-02d7-479a-9b89-9017f748f770)
 
-### Result:
