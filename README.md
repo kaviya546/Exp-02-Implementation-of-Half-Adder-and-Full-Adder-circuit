@@ -83,3 +83,6 @@ Half Adder:
 
 ![halfadder-wave](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/2a5c49a1-02d7-479a-9b89-9017f748f770)
 
+### Result : 
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified.
+
