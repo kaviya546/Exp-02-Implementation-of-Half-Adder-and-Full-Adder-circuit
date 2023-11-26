@@ -1,4 +1,4 @@
-![Exp2 wave](https://github.com/kaviya546/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/150368823/56e0a3ac-900f-4b77-927b-f851bbe81248)# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
